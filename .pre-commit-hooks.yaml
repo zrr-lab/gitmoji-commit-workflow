@@ -3,6 +3,6 @@
   description: "😉 Use gitmoji commit in your workflow"
   entry: commitlint -e $GIT_PARAMS
   language: node
-  types_or: [javascript, typescript]
+  types_or: [javascript, ts]
   args: []
   require_serial: false
